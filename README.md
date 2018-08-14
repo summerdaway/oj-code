@@ -22,6 +22,8 @@
 [1053](http://hihocoder.com/problemset/problem/1053)|居民迁移|||
 [1054](http://hihocoder.com/problemset/problem/1054)|滑动解锁|||
 [1055](http://hihocoder.com/problemset/problem/1055)|刷油漆|||
+[1057](http://hihocoder.com/problemset/problem/1057)|[Performance Log](./hiho/1057.cpp)|一个顺序执行的程序，给出它的函数调用log，格式是(func, time)，求函数调用顺序和运行时间，如果有矛盾输出无解|因为程序是顺序执行的，首先log的时间一定是增加的。用一个栈记录。<br>    实现的时候，定义TM类，重载了减法和>，始终过不了，还不知道为什么。<br>    把时间转成int做就可以了|
+[1059](http://hihocoder.com/problemset/problem/1059)|[String Matching Content Length](./hiho/1059.cpp)|}_<<br><br>Solution >_{||
 [1061](http://hihocoder.com/problemset/problem/1061)|Beautiful String|||
 [1062](http://hihocoder.com/problemset/problem/1062)|最近公共祖先·一|||
 [1066](http://hihocoder.com/problemset/problem/1066)|无间道之并查集|||
@@ -40,6 +42,7 @@
 [1081](http://hihocoder.com/problemset/problem/1081)|最短路径·一|||
 [1082](http://hihocoder.com/problemset/problem/1082)|然而沼跃鱼早就看穿了一切|||
 [1083](http://hihocoder.com/problemset/problem/1083)|积分|||
+[1086](http://hihocoder.com/problemset/problem/1086)|[Browser Caching](./hiho/1086.cpp)|}_<<br><br>Solution >_{||
 [1087](http://hihocoder.com/problemset/problem/1087)|Hamiltonian Cycle|||
 [1089](http://hihocoder.com/problemset/problem/1089)|最短路径·二：Floyd算法|||
 [1091](http://hihocoder.com/problemset/problem/1091)|Clicker|||
@@ -51,6 +54,7 @@
 [1097](http://hihocoder.com/problemset/problem/1097)|最小生成树一·Prim算法|||
 [1098](http://hihocoder.com/problemset/problem/1098)|最小生成树二·Kruscal算法|||
 [1099](http://hihocoder.com/problemset/problem/1099)|Constellations|||
+[1102](http://hihocoder.com/problemset/problem/1102)|[Individual Income Tax](./hiho/1102.cpp)|}_<<br><br>Solution >_{||
 [1103](http://hihocoder.com/problemset/problem/1103)|Colorful Lecture Note|||
 [1104](http://hihocoder.com/problemset/problem/1104)|Suzhou Adventure|||
 [1105](http://hihocoder.com/problemset/problem/1105)|题外话·堆|||
@@ -76,6 +80,8 @@
 [1143](http://hihocoder.com/problemset/problem/1143)|骨牌覆盖问题·一|||
 [1144](http://hihocoder.com/problemset/problem/1144)|01串|||
 [1145](http://hihocoder.com/problemset/problem/1145)|幻想乡的日常|||
+[1148](http://hihocoder.com/problemset/problem/1148)|[2月29日](./hiho/1148.py)|||
+[1149](http://hihocoder.com/problemset/problem/1149)|[回文字符序列](./hiho/1149.cpp)|}_<<br><br>Solution >_{||
 [1151](http://hihocoder.com/problemset/problem/1151)|骨牌覆盖问题·二|||
 [1152](http://hihocoder.com/problemset/problem/1152)|Lucky Substrings|||
 [1153](http://hihocoder.com/problemset/problem/1153)|Numeric Keypad|||
@@ -86,6 +92,7 @@
 [1161](http://hihocoder.com/problemset/problem/1161)|八卦的小冰|||
 [1162](http://hihocoder.com/problemset/problem/1162)|骨牌覆盖问题·三|||
 [1163](http://hihocoder.com/problemset/problem/1163)|博弈游戏·Nim游戏|||
+[1164](http://hihocoder.com/problemset/problem/1164)|[随机斐波那契](./hiho/1164.py)|||
 [1165](http://hihocoder.com/problemset/problem/1165)|益智游戏|||
 [1166](http://hihocoder.com/problemset/problem/1166)|交换代数|||
 [1167](http://hihocoder.com/problemset/problem/1167)|高等理论计算机科学|||
@@ -102,9 +109,11 @@
 [1179](http://hihocoder.com/problemset/problem/1179)|永恒游戏|||
 [1181](http://hihocoder.com/problemset/problem/1181)|[欧拉路·二](./hiho/1181.cpp)|||
 [1186](http://hihocoder.com/problemset/problem/1186)|[Coordinates](./hiho/1186.cpp)|||
+[1187](http://hihocoder.com/problemset/problem/1187)|[Divisors](./hiho/1187.cpp)|}_<<br><br>Solution >_{||
 [1223](http://hihocoder.com/problemset/problem/1223)|[不等式](./hiho/1223.cpp)|||
 [1239](http://hihocoder.com/problemset/problem/1239)|Fibonacci|||
 [1268](http://hihocoder.com/problemset/problem/1268)|九宫|||
+[1269](http://hihocoder.com/problemset/problem/1269)|[优化延迟](./hiho/1269.cpp)|}_<<br><br>Solution >_{||
 [1272](http://hihocoder.com/problemset/problem/1272)|买零食|||
 [1273](http://hihocoder.com/problemset/problem/1273)|清理海报|||
 [1274](http://hihocoder.com/problemset/problem/1274)|自行车架|||
@@ -121,9 +130,15 @@
 [1304](http://hihocoder.com/problemset/problem/1304)|搜索一·24点|||
 [1305](http://hihocoder.com/problemset/problem/1305)|区间求差|||
 [1306](http://hihocoder.com/problemset/problem/1306)|股票价格|||
+[1307](http://hihocoder.com/problemset/problem/1307)|[穿越禁区](./hiho/1307.cpp)|}_<<br><br>Solution >_{||
+[1309](http://hihocoder.com/problemset/problem/1309)|[任务分配](./hiho/1309.cpp)|}_<<br><br>Solution >_{||
+[1310](http://hihocoder.com/problemset/problem/1310)|[岛屿](./hiho/1310.cpp)|给一个<img src="http://latex.codecogs.com/gif.latex?n%5Ctimes%20m"/>的矩阵，只包含 . 和 # ，#的连通块是岛屿，求岛屿个数、不同面积的岛屿个数、不同形状的岛屿个数。<img src="http://latex.codecogs.com/gif.latex?n%2C%20m%5Cle50"/>||
 [1311](http://hihocoder.com/problemset/problem/1311)|[ 二进制小数](./hiho/1311.cpp)|||
+[1318](http://hihocoder.com/problemset/problem/1318)|[非法二进制数](./hiho/1318.cpp)|}_<<br><br>Solution >_{||
+[1319](http://hihocoder.com/problemset/problem/1319)|[区域周长](./hiho/1319.cpp)|}_<<br><br>Solution >_{||
 [1322](http://hihocoder.com/problemset/problem/1322)|树结构判定|||
 [1323](http://hihocoder.com/problemset/problem/1323)|回文字符串|||
+[1324](http://hihocoder.com/problemset/problem/1324)|[希尔伯特曲线](./hiho/1324.cpp)|}_<<br><br>Solution >_{||
 [1326](http://hihocoder.com/problemset/problem/1326)|有序01字符串|||
 [1327](http://hihocoder.com/problemset/problem/1327)|[分隔相同字符](./hiho/1327.cpp)|给一个只包含小写字母的字符串S(<img src="http://latex.codecogs.com/gif.latex?%7CS%7C%5Cle%20100000"/>)，重新调整字母位置使得相邻两个字母不相同，求字典序最小的方案。如果没有可行解输出INVALID。|依次枚举位置<img src="http://latex.codecogs.com/gif.latex?i"/>，每次找是否有字母的个数大于<img src="http://latex.codecogs.com/gif.latex?%5Clfloor%20%5Cfrac%7Bn-i%2B1%7D%7B2%7D%5Crfloor"/>，如果有，那么无解。否则如果当前剩余字符串长度为奇数，且有字母个数等于长度一半，那么这个字母必须放在开头。否则就找最小的字母放进去。|
 [1330](http://hihocoder.com/problemset/problem/1330)|数组重排|||
@@ -403,3 +418,22 @@
 [1777](http://hihocoder.com/problemset/problem/1777)|彩球|||
 [1778](http://hihocoder.com/problemset/problem/1778)|最优子段|||
 [1779](http://hihocoder.com/problemset/problem/1779)|公路收费|||
+[1780](http://hihocoder.com/problemset/problem/1780)|[又一个作业](./hiho/challenge34/a.cpp)|||
+[1781](http://hihocoder.com/problemset/problem/1781)|[又一个冒泡排序](./hiho/challenge34/b.cpp)|||
+[1784](http://hihocoder.com/problemset/problem/1784)|[传输数据](./hiho/offers68/a.cpp)|给n个点的完全图，最开始有1个点被染色，每次可以用染色的点去染色它相邻的点，最多染k个，几轮可以染完。<br>    <img src="http://latex.codecogs.com/gif.latex?n%2C%20k%5Cle%2010%5E9"/>|<img src="http://latex.codecogs.com/gif.latex?1%20%2B%20%281%20%2B%20k%29%20%2B%20%28%281%2Bk%29%5E2%29%20%2B%20...%20%3D%20n"/>|
+[1785](http://hihocoder.com/problemset/problem/1785)|[数字游戏2](./hiho/offers68/b.cpp)|给一个数n，每次可以取它的约数d，变成n/d，求把n变成1的不同序列有多少个。<img src="http://latex.codecogs.com/gif.latex?n%5Cle10%5E6"/>|<img src="http://latex.codecogs.com/gif.latex?f%28i%29"/>表示<img src="http://latex.codecogs.com/gif.latex?i"/>变成1的方法数，枚举每个数i，枚举它的倍数2i, 3i, 4i...，更新<img src="http://latex.codecogs.com/gif.latex?f%28ki%29%2B%3Df%28i%29"/>|
+[1786](http://hihocoder.com/problemset/problem/1786)|[跳石头](./hiho/offers68/c.cpp)|给一个数组<img src="http://latex.codecogs.com/gif.latex?a"/>，从<img src="http://latex.codecogs.com/gif.latex?a_0"/>出发，每次可以从<img src="http://latex.codecogs.com/gif.latex?a_i"/>跳到<img src="http://latex.codecogs.com/gif.latex?a_%7Bi%2B1%7D"/>或<img src="http://latex.codecogs.com/gif.latex?a_j%2C%20j%3Dmin_k%5C%7Bk%3Ei%2C%20a_k%3Da_i%5C%7D"/>，跳到右边一个或者跳到右边第一个和它值相等的。求跳到<img src="http://latex.codecogs.com/gif.latex?a_%7Bn-1%7D"/>的最少步数<br>    <img src="http://latex.codecogs.com/gif.latex?n%5Cle%202%5Ctimes10%5E5"/>|<img src="http://latex.codecogs.com/gif.latex?f_i"/>表示到<img src="http://latex.codecogs.com/gif.latex?i"/>的最少步数，<img src="http://latex.codecogs.com/gif.latex?f_i%20%2B%201%20-%3E%20f_%7Bi%2B1%7D%2C%20f_j%20%28j%3Dmin_k%5C%7Bk%3Ei%2C%20a_k%3Da_i%5C%7D%29"/>|
+[1787](http://hihocoder.com/problemset/problem/1787)|[道路建设](./hiho/offers68/d.cpp)|给一棵树，现在要添加边把树变成完全图。每个阶段，如果<img src="http://latex.codecogs.com/gif.latex?x%2C%20y%2C%20z"/>不同且<img src="http://latex.codecogs.com/gif.latex?%28x%2C%20y%29%2C%20%28y%2C%20z%29"/>有边，那么<img src="http://latex.codecogs.com/gif.latex?%28x%2C%20z%29"/>添加一条边，求最少几个阶段可以变成完全图。<br>    <img src="http://latex.codecogs.com/gif.latex?n%5Cle%2010%5E5"/>|加边的阶段数取决于最长链的长度<img src="http://latex.codecogs.com/gif.latex?L"/>，答案是<img src="http://latex.codecogs.com/gif.latex?min_x%5C%7B2%5Ex%20%3E%3D%20L%7D"/>|
+[1788](http://hihocoder.com/problemset/problem/1788)|偶数长度回文子串|||
+[1789](http://hihocoder.com/problemset/problem/1789)|阶乘问题|||
+[1790](http://hihocoder.com/problemset/problem/1790)|特工配对|||
+[1791](http://hihocoder.com/problemset/problem/1791)|[幸运数字](./hiho/1791.cpp)|}_<<br><br>Solution >_{||
+[1792](http://hihocoder.com/problemset/problem/1792)|数位翻转|||
+[1793](http://hihocoder.com/problemset/problem/1793)|最短公共子序列|||
+[1794](http://hihocoder.com/problemset/problem/1794)|[拼三角形](./hiho/1794.cpp)|}_<<br><br>Solution >_{||
+[1795](http://hihocoder.com/problemset/problem/1795)|[神奇的序列](./hiho/1795.cpp)|}_<<br><br>Solution >_{||
+[1796](http://hihocoder.com/problemset/problem/1796)|[完美K倍子数组](./hiho/offers71/a.cpp)|}_<<br><br>Solution >_{||
+[1798](http://hihocoder.com/problemset/problem/1798)|[666](./hiho/offers71/c.cpp)|}_<<br><br>Solution >_{||
+[1800](http://hihocoder.com/problemset/problem/1800)|[玩具设计师](./hiho/offers72/a.cpp)|<img src="http://latex.codecogs.com/gif.latex?n%2Am"/> 矩阵，每个位置有值 <img src="http://latex.codecogs.com/gif.latex?a_%7Bij%7D"/>，求一个面积不小于 <img src="http://latex.codecogs.com/gif.latex?S"/> 的子矩阵，使 <img src="http://latex.codecogs.com/gif.latex?%5Csum%20a_%7Bij%7D"/> 最大<br>    <img src="http://latex.codecogs.com/gif.latex?1%5Cle%20n%2C%20m%5Cle300"/><br>    <img src="http://latex.codecogs.com/gif.latex?1%5Cle%20S%20%5Cle%2090000"/><br>    $\|a_{ij}\|\le 10^4|枚举左边线<img src="http://latex.codecogs.com/gif.latex?i"/>和右边线<img src="http://latex.codecogs.com/gif.latex?j"/>，矩阵宽为<img src="http://latex.codecogs.com/gif.latex?j-i%2B1"/>，可以算出最小长度<img src="http://latex.codecogs.com/gif.latex?L"/>，记一下 <img src="http://latex.codecogs.com/gif.latex?k-L"/> 之间的和的最小值，用当前和减掉最小值求最大|
+[1801](http://hihocoder.com/problemset/problem/1801)|[剪切字符串](./hiho/offers72/b.cpp)|一个长度为<img src="http://latex.codecogs.com/gif.latex?n"/>的字符串，字符各不相同，每次选取连续<img src="http://latex.codecogs.com/gif.latex?k"/>个字符，剪切下来，加到开头或结尾，可以反复做多次，求最后有多少个不同的字符串，输出mod p的余数。<br>    <img src="http://latex.codecogs.com/gif.latex?1%5Cle%20k%5Cle%20n%5Cle%2010%5E7%2C%201%5Cle%20p%5Cle%2010%5E9"/>|打表找规律|
+[1802](http://hihocoder.com/problemset/problem/1802)|[全速跑垒](./hiho/offers72/c.cpp)|棒球，场上有4个垒，1、2、3、本垒。每人打了一棒可能有7种情况：<br>    1. 本垒打：所有垒清空，得分增加垒上人数+1（走4步）<br>    2. 三垒打：打手上三垒，得分增加原垒上人数（走3步）<br>    3. 二垒打：打手上二垒，一垒若有人则上三垒，得分增加原二三垒人数（走2步）<br>    4. 安打：打手上一垒，其他人进一垒（走1步）<br>    5. 三振：打手出局<br>    6. 牺牲打：打手出局，其他人进一垒（其他人走1步）<br>    7. 保送：打手上一垒，从一垒开始，若有人，把人往下一垒推<br><br>    现在总共有<img src="http://latex.codecogs.com/gif.latex?n"/>个人，给出每个人打出7种情况的概率。最多可以打<img src="http://latex.codecogs.com/gif.latex?L"/>次，出局人数最多为<img src="http://latex.codecogs.com/gif.latex?m"/>人，安排<img src="http://latex.codecogs.com/gif.latex?n"/>个人的击打顺序，使得得分的期望最大<br><br>    <img src="http://latex.codecogs.com/gif.latex?1%5Cle%20m%5Cle%205"/>, <img src="http://latex.codecogs.com/gif.latex?1%5Cle%20L%5Cle%20n%5Cle9"/>|枚举前<img src="http://latex.codecogs.com/gif.latex?L"/>棒由谁来打，假设顺序是<img src="http://latex.codecogs.com/gif.latex?b_0%2C...%2Cb_%7BL-1%7D"/>，<img src="http://latex.codecogs.com/gif.latex?f%28i%2C%20j%2C%20k%29"/>表示前<img src="http://latex.codecogs.com/gif.latex?i"/>个人，出局了<img src="http://latex.codecogs.com/gif.latex?j"/>个，垒上状态为<img src="http://latex.codecogs.com/gif.latex?k"/>的期望得分，<img src="http://latex.codecogs.com/gif.latex?p%28i%2C%20j%2C%20k%29"/>表示对应状态的概率，<img src="http://latex.codecogs.com/gif.latex?a_%7Bij%7D"/>是第<img src="http://latex.codecogs.com/gif.latex?i"/>个人打出第<img src="http://latex.codecogs.com/gif.latex?j"/>种情况的概率，那么有<br>    <center><img src="http://latex.codecogs.com/gif.latex?p%28i%2C%20j%2C%20k%29%20%2A%20a_%7Bb%5Bi%5D%2C0-7%7D%20-%3E%20p%28i%2B1%2C%20newj%2C%20newk%29"/></center><br>    <center><img src="http://latex.codecogs.com/gif.latex?%28f%28i%2C%20j%2C%20k%29%20%2B%20score%28k%2C%200-7%29%2Ap%28i%2C%20j%2C%20k%29%29%20%2A%20a_%7Bb%5Bi%5D%2C0-7%7D%20-%3E%20f%28i%2B1%2C%20newj%2C%20newk%29"/></center><br>    其中newj和newk根据情况计算。<br>    最后对<img src="http://latex.codecogs.com/gif.latex?f"/>求和，<img src="http://latex.codecogs.com/gif.latex?ans%3D%5Csum_%7Bj%5Cle%20m%2C%20k%3C8%7D%20f%28L%2C%20j%2C%20k%29%20%2B%20%5Csum_%7Bi%3CL%2C%20k%3C8%7D%20f%28i%2C%20m%2C%20k%29"/>。注意后面这一项是还没有打到<img src="http://latex.codecogs.com/gif.latex?L"/>次，出局人数就达到了<img src="http://latex.codecogs.com/gif.latex?m"/>。|
